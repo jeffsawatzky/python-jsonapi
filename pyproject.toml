@@ -20,6 +20,7 @@ Changelog = "https://github.com/jeffsawatzky/python-jsonapi/releases"
 [tool.poetry.dependencies]
 python = "^3.6.1"
 click = "^7.0"
+uri = "^2.0.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.4.3"
@@ -41,6 +42,7 @@ pep8-naming = "^0.11.1"
 darglint = "^1.5.1"
 reorder-python-imports = "^2.3.1"
 pre-commit-hooks = "^3.1.0"
+rstcheck = "^3.3.1"
 
 [tool.poetry.scripts]
 python-jsonapi = "python_jsonapi.__main__:main"

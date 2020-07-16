@@ -1,8 +1,9 @@
 {
-  "python.linting.pylintEnabled": false,
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  "python.linting.enabled": true,
   "python.linting.flake8Enabled": true,
   "python.linting.mypyEnabled": true,
-  "python.linting.enabled": true,
-  "python.pythonPath": "venv/bin/python",
-  "git.ignoreLimitWarning": true
+  "python.linting.pylintEnabled": false,
+  "restructuredtext.confPath": ""
 }
