@@ -1,0 +1,16 @@
+{
+  "template": "https://github.com/cjolowicz/cookiecutter-hypermodern-python",
+  "commit": "a09b326a04f045903f810873d0af072b37102299",
+  "context": {
+    "cookiecutter": {
+      "project_name": "python-jsonapi",
+      "package_name": "python_jsonapi",
+      "friendly_name": "Python JSON:API",
+      "author": "Jeff Sawatzky",
+      "email": "jeff.sawatzky@me.com",
+      "github_user": "jeffsawatzky",
+      "version": "0.0.0",
+      "_template": "https://github.com/cjolowicz/cookiecutter-hypermodern-python"
+    }
+  }
+}
