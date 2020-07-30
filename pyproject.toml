@@ -9,8 +9,6 @@ homepage = "https://github.com/jeffsawatzky/python-jsonapi"
 repository = "https://github.com/jeffsawatzky/python-jsonapi"
 documentation = "https://python-jsonapi.readthedocs.io"
 classifiers = [
-    "Programming Language :: Python :: 3.6",
-    "Programming Language :: Python :: 3.7",
     "Programming Language :: Python :: 3.8",
 ]
 
@@ -18,7 +16,7 @@ classifiers = [
 Changelog = "https://github.com/jeffsawatzky/python-jsonapi/releases"
 
 [tool.poetry.dependencies]
-python = "^3.6.1"
+python = "^3.8.0"
 click = "^7.0"
 uri = "^2.0.1"
 
