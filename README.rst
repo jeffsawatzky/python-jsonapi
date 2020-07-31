@@ -67,6 +67,11 @@ Contributing
 Contributions are very welcome.
 To learn more, see the `Contributor Guide`_.
 
+Releasing
+------------
+
+To learn more, see the `Releasing Guide`_.
+
 
 License
 -------
@@ -97,3 +102,4 @@ This project was generated from `@cjolowicz`_'s `Hypermodern Python Cookiecutter
 .. _pip: https://pip.pypa.io/
 .. github-only
 .. _Contributor Guide: CONTRIBUTING.rst
+.. _Releasing Guide: RELEASING.rst
