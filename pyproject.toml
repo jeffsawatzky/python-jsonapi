@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "python-jsonapi"
-version = "0.0.0"
+version = "0.0.1"
 description = "Python JSON:API"
 authors = ["Jeff Sawatzky <jeff.sawatzky@me.com>"]
 license = "MIT"
