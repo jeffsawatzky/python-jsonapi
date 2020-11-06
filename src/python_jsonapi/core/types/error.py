@@ -23,7 +23,7 @@ class ErrorSource:
         """Initializes an error source object.
 
         Args:
-            pointer: A JSON Pointer [RFC6901] to the associated entity in the request document.
+            pointer: A JSON Pointer [RFC6901] to the entity in the request document.
             parameter: A string indicating which URI query parameter caused the error.
         """
         self.pointer = pointer

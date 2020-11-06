@@ -58,7 +58,7 @@ You can install *Python JSON:API* via pip_ from PyPI_:
 Usage
 -----
 
-* TODO
+Please see the `Command-line Reference <Usage_>`_ for details.
 
 
 Contributing
@@ -103,3 +103,4 @@ This project was generated from `@cjolowicz`_'s `Hypermodern Python Cookiecutter
 .. github-only
 .. _Contributor Guide: CONTRIBUTING.rst
 .. _Releasing Guide: RELEASING.rst
+.. _Usage: https://python-jsonapi.readthedocs.io/en/latest/usage.html

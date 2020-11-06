@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/cjolowicz/cookiecutter-hypermodern-python",
-  "commit": "8bca569680b18faee39c59795faa2a45aabd2f48",
+  "commit": "605cf6569590598f6f6ac4430c255ff3c249ab4a",
   "context": {
     "cookiecutter": {
       "project_name": "python-jsonapi",
@@ -12,5 +12,6 @@
       "version": "0.0.0",
       "_template": "https://github.com/cjolowicz/cookiecutter-hypermodern-python"
     }
-  }
+  },
+  "directory": null
 }
