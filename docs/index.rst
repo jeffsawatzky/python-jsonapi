@@ -2,6 +2,7 @@
    :end-before: github-only
 
 .. _Contributor Guide: contributing.html
+.. _Releasing Guide: releasing.html
 .. _Usage: usage.html
 
 .. toctree::
@@ -11,6 +12,7 @@
    usage
    reference
    contributing
+   releasing
    Code of Conduct <codeofconduct>
    License <license>
    Changelog <https://github.com/jeffsawatzky/python-jsonapi/releases>

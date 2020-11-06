@@ -1,5 +1,5 @@
-Releasing
----------
+Releasing Guide
+================
 
 Releases are triggered by a version bump on the master branch.
 It is recommended to do this in a separate pull request:
@@ -50,3 +50,5 @@ Create the remaining labels when you need them,
 on the *Issues* tab of your GitHub repository,
 
 .. table-release-drafter-sections-end
+
+.. github-only
