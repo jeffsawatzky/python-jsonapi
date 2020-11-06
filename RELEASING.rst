@@ -1,5 +1,5 @@
 Releasing Guide
-================
+===============
 
 Releases are triggered by a version bump on the master branch.
 It is recommended to do this in a separate pull request:
